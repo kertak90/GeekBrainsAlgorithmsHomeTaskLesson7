@@ -91,6 +91,7 @@ namespace Lesson7
         static void Task2()
         {
             //2.Написать рекурсивную функцию обхода графа в глубину.
+            //Небольшие изменения
 
             string fileName = "GraphFile.txt";
             StreamReader FS = new StreamReader(fileName);
