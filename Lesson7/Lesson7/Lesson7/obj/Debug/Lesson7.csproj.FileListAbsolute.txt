@@ -5,3 +5,10 @@ D:\C# projects\Си Алгоритмы\Урок 7\Lesson7\Lesson7\Lesson7\obj\De
 D:\C# projects\Си Алгоритмы\Урок 7\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
 D:\C# projects\Си Алгоритмы\Урок 7\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.exe
 D:\C# projects\Си Алгоритмы\Урок 7\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.pdb
+D:\C# projects\Си Алгоритмы\git-Lesson7\Lesson7\Lesson7\Lesson7\bin\Debug\Lesson7.exe.config
+D:\C# projects\Си Алгоритмы\git-Lesson7\Lesson7\Lesson7\Lesson7\bin\Debug\Lesson7.exe
+D:\C# projects\Си Алгоритмы\git-Lesson7\Lesson7\Lesson7\Lesson7\bin\Debug\Lesson7.pdb
+D:\C# projects\Си Алгоритмы\git-Lesson7\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.csprojAssemblyReference.cache
+D:\C# projects\Си Алгоритмы\git-Lesson7\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
+D:\C# projects\Си Алгоритмы\git-Lesson7\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.exe
+D:\C# projects\Си Алгоритмы\git-Lesson7\Lesson7\Lesson7\Lesson7\obj\Debug\Lesson7.pdb
